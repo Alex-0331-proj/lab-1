@@ -11,7 +11,7 @@
 
 ## Посилання
 * GitHub Pages: https://github.com/Alex-0331-proj/lab-1
-* Документ звіту (Google Drive): https://docs.google.com/document/d/1J76lH-Vvxv02rhmT3TavOpNHLkn3CvhFqmvQ8a_ZmcU/edit?usp=sharing
+* Документ звіту (Google Drive): https://docs.google.com/document/d/1eIXVpHB3pU5KKqCowvQtQxiYPhN4iJYA/edit?usp=sharing&ouid=114882732802766789572&rtpof=true&sd=true
 
 ## Перелік сторінок додатку
 Згідно із завданням, реалізовано наступні статичні сторінки:
